@@ -1,0 +1,3 @@
+###GET USER VIA CONTAINS
+GET http://localhost:8080/users/contains/{{displayname}}
+Authorization: Basic {{user}} {{password}}

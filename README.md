@@ -1,0 +1,1 @@
+Securityconfig Auth-All --> start local application with local-dev
